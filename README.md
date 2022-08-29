@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Tala](https://speechly.app/)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **FP**
 
 - 💬 Ask me about **C#, React, and Azure**
 
