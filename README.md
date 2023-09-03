@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Kamau</h1>
 <h3 align="center">A Software Engineer from Nairobi, Kenya</h3>
 
-- 🔭 I’m currently working on [Tala](https://tala.global/)
-
-- 🌱 I’m currently learning **FP**
-
 - 💬 Ask me about **C#, React, and Azure**
 
 - 📫 How to reach me **jkamzz@outlook.com**
