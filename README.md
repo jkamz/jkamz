@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **jkamzz@outlook.com**
 
-- 📄 Know about my experiences [https://jkamz.github.io/](https://jkamz.github.io/)
+- 📄 Know about my experiences [https://resume.jkamz.com/](https://resume.jkamz.com/)
 
 
 <h3 align="left">Languages and Tools:</h3>
